@@ -1,4 +1,4 @@
-# Project Title
+# nft preview card
 
 An NFT preview card component for a Frontend Mentor challenge.
 
